@@ -15,6 +15,7 @@ h2{
     justify-content: center;
 }
 
+
 .birthdayCard{
     position: relative;
     width: 250px;
@@ -170,6 +171,14 @@ p{
     visibility: hidden;
     opacity: 0;
     transition: 0.3s ease-in-out;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
 }
 
 @keyframes blink{
